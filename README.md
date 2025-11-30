@@ -13,7 +13,7 @@ mkdir -p "$HOME/.local/bin" && curl -fsSL https://raw.githubusercontent.com/enha
 ```
 for everyone (requires cURL and sudo rights):
 ```bash
-sudo curl -fsSL https://raw.githubusercontent.com/enhancedrock/penis/refs/heads/main/penis -o /usr/local/bin/penis && sudo chmod +x /usr/local/bin/penis
+sudo curl -fsSL https://raw.githubusercontent.com/enhancedrock/penis/refs/heads/main/penis -o /usr/local/bin/penis && sudo chmod a+x /usr/local/bin/penis
 ```
 
 # license
